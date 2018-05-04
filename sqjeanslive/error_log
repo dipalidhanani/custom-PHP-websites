@@ -1,0 +1,298 @@
+[02-Sep-2011 10:16:00] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/payment.php on line 26
+[12-Sep-2011 02:11:42] PHP Warning:  include(termsandconditoions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 99
+[12-Sep-2011 02:11:42] PHP Warning:  include(termsandconditoions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 99
+[12-Sep-2011 02:11:42] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'termsandconditoions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqjeans/public_html/index.php on line 99
+[14-Sep-2011 10:25:57] PHP Warning:  include(termsandconditions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 99
+[14-Sep-2011 10:25:58] PHP Warning:  include(termsandconditions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 99
+[14-Sep-2011 10:25:58] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'termsandconditions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqjeans/public_html/index.php on line 99
+[22-Sep-2011 11:37:14] PHP Warning:  include(login.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/left_custom.php on line 254
+[22-Sep-2011 11:37:14] PHP Warning:  include(login.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/left_custom.php on line 254
+[22-Sep-2011 11:37:14] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'login.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqjeans/public_html/left_custom.php on line 254
+[22-Sep-2011 11:39:36] PHP Warning:  include(login.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/left_custom.php on line 254
+[22-Sep-2011 11:39:36] PHP Warning:  include(login.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/left_custom.php on line 254
+[22-Sep-2011 11:39:36] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'login.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqjeans/public_html/left_custom.php on line 254
+[22-Sep-2011 11:39:53] PHP Warning:  include(login.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/left_custom.php on line 254
+[22-Sep-2011 11:39:53] PHP Warning:  include(login.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/left_custom.php on line 254
+[22-Sep-2011 11:39:53] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'login.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqjeans/public_html/left_custom.php on line 254
+[23-Sep-2011 09:55:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 139
+[23-Sep-2011 09:55:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 212
+[23-Sep-2011 10:10:31] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/orderprocess.php on line 387
+[23-Sep-2011 10:10:31] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sqjeans/public_html/orderprocess.php:387) in /home/sqjeans/public_html/orderprocess.php on line 642
+[23-Sep-2011 10:11:45] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/orderprocess.php on line 387
+[23-Sep-2011 10:11:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sqjeans/public_html/orderprocess.php:387) in /home/sqjeans/public_html/orderprocess.php on line 642
+[24-Sep-2011 10:04:49] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/customjeans.php on line 1545
+[24-Sep-2011 10:05:15] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/customjeans.php on line 1545
+[05-Oct-2011 08:42:22] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/customjeans.php on line 1545
+[12-Oct-2011 11:32:25] PHP Warning:  include(mnu.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/header.php on line 12
+[12-Oct-2011 11:32:25] PHP Warning:  include(mnu.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/header.php on line 12
+[12-Oct-2011 11:32:25] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'mnu.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqjeans/public_html/header.php on line 12
+[12-Oct-2011 11:32:30] PHP Warning:  include(mnu.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/header.php on line 12
+[12-Oct-2011 11:32:30] PHP Warning:  include(mnu.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/header.php on line 12
+[12-Oct-2011 11:32:30] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'mnu.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqjeans/public_html/header.php on line 12
+[13-Oct-2011 04:40:04] PHP Parse error:  syntax error, unexpected $end in /home/sqjeans/public_html/customjeans.php on line 1535
+[13-Oct-2011 04:41:41] PHP Parse error:  syntax error, unexpected $end in /home/sqjeans/public_html/customjeans.php on line 1535
+[13-Oct-2011 04:42:14] PHP Parse error:  syntax error, unexpected $end in /home/sqjeans/public_html/customjeans.php on line 1535
+[13-Oct-2011 05:42:57] PHP Parse error:  syntax error, unexpected $end in /home/sqjeans/public_html/customjeans.php on line 1535
+[13-Oct-2011 05:48:17] PHP Parse error:  syntax error, unexpected $end in /home/sqjeans/public_html/customjeans.php on line 1535
+[13-Oct-2011 07:55:33] PHP Parse error:  syntax error, unexpected $end in /home/sqjeans/public_html/customjeans.php on line 1535
+[13-Oct-2011 10:10:00] PHP Parse error:  syntax error, unexpected $end in /home/sqjeans/public_html/customjeans.php on line 1535
+[13-Oct-2011 10:10:38] PHP Parse error:  syntax error, unexpected $end in /home/sqjeans/public_html/customjeans.php on line 1535
+[15-Oct-2011 09:27:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 144
+[15-Oct-2011 09:27:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 144
+[15-Oct-2011 09:27:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 144
+[15-Oct-2011 09:27:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 144
+[15-Oct-2011 09:27:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 144
+[15-Oct-2011 09:27:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 217
+[20-Oct-2011 21:09:16] PHP Warning:  include(.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/main.php on line 14
+[20-Oct-2011 21:09:16] PHP Warning:  include(.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/main.php on line 14
+[20-Oct-2011 21:09:16] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqjeans/public_html/main.php on line 14
+[30-Oct-2011 07:57:17] PHP Parse error:  syntax error, unexpected '?' in /home/sqjeans/public_html/left.php on line 168
+[08-Nov-2011 08:07:21] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/customjeans.php on line 1550
+[11-Nov-2011 18:12:17] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/payment.php on line 25
+[12-Nov-2011 18:42:06] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/payment.php on line 25
+[20-Nov-2011 07:04:58] PHP Warning:  include(Gallery.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 130
+[20-Nov-2011 07:04:58] PHP Warning:  include(Gallery.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 130
+[20-Nov-2011 07:04:58] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Gallery.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqjeans/public_html/index.php on line 130
+[20-Nov-2011 17:36:42] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/payment.php on line 25
+[20-Nov-2011 22:41:29] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/payment.php on line 25
+[26-Nov-2011 01:02:48] PHP Warning:  include(photogallery1.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 204
+[26-Nov-2011 01:02:48] PHP Warning:  include(photogallery1.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 204
+[26-Nov-2011 01:02:48] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'photogallery1.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqjeans/public_html/index.php on line 204
+[28-Nov-2011 09:36:35] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/customjeans.php on line 1572
+[05-Dec-2011 02:50:32] PHP Warning:  include(fabric5.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 244
+[05-Dec-2011 02:50:32] PHP Warning:  include(fabric5.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 244
+[05-Dec-2011 02:50:32] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'fabric5.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqjeans/public_html/index.php on line 244
+[05-Dec-2011 05:02:43] PHP Warning:  include(fabric2.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 232
+[05-Dec-2011 05:02:44] PHP Warning:  include(fabric2.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 232
+[05-Dec-2011 05:02:44] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'fabric2.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqjeans/public_html/index.php on line 232
+[05-Dec-2011 05:07:27] PHP Warning:  include(fabric5.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 244
+[05-Dec-2011 05:07:27] PHP Warning:  include(fabric5.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 244
+[05-Dec-2011 05:07:27] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'fabric5.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqjeans/public_html/index.php on line 244
+[05-Dec-2011 05:18:30] PHP Warning:  include(fabric3.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 236
+[05-Dec-2011 05:18:30] PHP Warning:  include(fabric3.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 236
+[05-Dec-2011 05:18:30] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'fabric3.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqjeans/public_html/index.php on line 236
+[05-Dec-2011 05:19:40] PHP Warning:  include(fabric6.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 248
+[05-Dec-2011 05:19:40] PHP Warning:  include(fabric6.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 248
+[05-Dec-2011 05:19:40] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'fabric6.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqjeans/public_html/index.php on line 248
+[05-Dec-2011 05:38:49] PHP Warning:  include(fabric1.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 228
+[05-Dec-2011 05:38:49] PHP Warning:  include(fabric1.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 228
+[05-Dec-2011 05:38:49] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'fabric1.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqjeans/public_html/index.php on line 228
+[05-Dec-2011 06:00:53] PHP Warning:  include(fabric4.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 240
+[05-Dec-2011 06:00:53] PHP Warning:  include(fabric4.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 240
+[05-Dec-2011 06:00:53] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'fabric4.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqjeans/public_html/index.php on line 240
+[05-Dec-2011 08:05:54] PHP Warning:  include(fabric1.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 228
+[05-Dec-2011 08:05:54] PHP Warning:  include(fabric1.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 228
+[05-Dec-2011 08:05:54] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'fabric1.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqjeans/public_html/index.php on line 228
+[05-Dec-2011 09:06:50] PHP Warning:  include(fabric5.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 244
+[05-Dec-2011 09:06:50] PHP Warning:  include(fabric5.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 244
+[05-Dec-2011 09:06:50] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'fabric5.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqjeans/public_html/index.php on line 244
+[05-Dec-2011 09:06:57] PHP Warning:  include(fabric5.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 244
+[05-Dec-2011 09:06:57] PHP Warning:  include(fabric5.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 244
+[05-Dec-2011 09:06:57] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'fabric5.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqjeans/public_html/index.php on line 244
+[05-Dec-2011 09:09:36] PHP Warning:  include(fabric5.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 244
+[05-Dec-2011 09:09:36] PHP Warning:  include(fabric5.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 244
+[05-Dec-2011 09:09:36] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'fabric5.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqjeans/public_html/index.php on line 244
+[05-Dec-2011 09:17:13] PHP Warning:  include(fabric2.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 232
+[05-Dec-2011 09:17:13] PHP Warning:  include(fabric2.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 232
+[05-Dec-2011 09:17:13] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'fabric2.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqjeans/public_html/index.php on line 232
+[11-Dec-2011 03:07:51] PHP Warning:  include(fabrics 2222.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 268
+[11-Dec-2011 03:07:51] PHP Warning:  include(fabrics 2222.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 268
+[11-Dec-2011 03:07:51] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'fabrics 2222.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqjeans/public_html/index.php on line 268
+[11-Dec-2011 03:13:14] PHP Warning:  include(fabrics 2222.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 268
+[11-Dec-2011 03:13:14] PHP Warning:  include(fabrics 2222.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 268
+[11-Dec-2011 03:13:14] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'fabrics 2222.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqjeans/public_html/index.php on line 268
+[11-Dec-2011 03:13:50] PHP Warning:  include(fabrics 2222.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 268
+[11-Dec-2011 03:13:50] PHP Warning:  include(fabrics 2222.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 268
+[11-Dec-2011 03:13:50] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'fabrics 2222.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqjeans/public_html/index.php on line 268
+[11-Dec-2011 03:15:15] PHP Warning:  include(fabrics 2222.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 268
+[11-Dec-2011 03:15:15] PHP Warning:  include(fabrics 2222.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/index.php on line 268
+[11-Dec-2011 03:15:15] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'fabrics 2222.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqjeans/public_html/index.php on line 268
+[13-Dec-2011 01:39:54] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/customjeans.php on line 1572
+[17-Dec-2011 21:29:49] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/payment.php on line 25
+[18-Dec-2011 07:25:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[18-Dec-2011 07:25:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[18-Dec-2011 07:25:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[18-Dec-2011 07:25:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 220
+[18-Dec-2011 07:31:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[18-Dec-2011 07:31:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[18-Dec-2011 07:31:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[18-Dec-2011 07:31:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 220
+[22-Dec-2011 02:08:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[22-Dec-2011 02:08:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[22-Dec-2011 02:08:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[22-Dec-2011 02:08:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 220
+[23-Dec-2011 02:47:55] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/customjeans.php on line 1576
+[25-Dec-2011 06:36:41] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/sqjeans/public_html/youselected.php:2) in /home/sqjeans/public_html/youselected.php on line 3
+[25-Dec-2011 06:42:28] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/sqjeans/public_html/youselected.php:2) in /home/sqjeans/public_html/youselected.php on line 3
+[25-Dec-2011 06:42:42] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/sqjeans/public_html/youselected.php:2) in /home/sqjeans/public_html/youselected.php on line 3
+[25-Dec-2011 06:42:59] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/sqjeans/public_html/youselected.php:2) in /home/sqjeans/public_html/youselected.php on line 3
+[03-Jan-2012 18:03:53] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/customjeans.php on line 1580
+[03-Jan-2012 18:04:10] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/payment.php on line 25
+[04-Jan-2012 03:27:12] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/payment.php on line 25
+[05-Jan-2012 08:04:36] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/customjeans.php on line 1580
+[08-Jan-2012 06:36:24] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/customjeans.php on line 1580
+[08-Jan-2012 07:05:24] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/customjeans.php on line 1580
+[09-Jan-2012 05:49:29] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[09-Jan-2012 05:49:29] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 220
+[12-Jan-2012 23:29:03] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/customjeans.php on line 1580
+[24-Jan-2012 02:52:54] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/customjeans.php on line 1580
+[30-Jan-2012 08:15:51] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/payment.php on line 25
+[09-Feb-2012 19:05:47] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/customjeans.php on line 1579
+[15-Feb-2012 07:13:33] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/customjeans.php on line 1579
+[19-Feb-2012 02:56:04] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/customjeans.php on line 1587
+[19-Feb-2012 06:20:34] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/customjeans.php on line 1587
+[25-Feb-2012 15:56:33] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/customjeans.php on line 1590
+[25-Feb-2012 15:57:15] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/customjeans.php on line 1590
+[25-Feb-2012 15:57:46] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/customjeans.php on line 1590
+[25-Feb-2012 15:58:52] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/customjeans.php on line 1590
+[25-Feb-2012 16:20:09] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/customjeans.php on line 1590
+[25-Feb-2012 17:08:30] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/customjeans.php on line 1590
+[26-Feb-2012 09:07:32] PHP Warning:  include(left info.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/left.php on line 140
+[26-Feb-2012 09:07:32] PHP Warning:  include(left info.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/sqjeans/public_html/left.php on line 140
+[26-Feb-2012 09:07:32] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'left info.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqjeans/public_html/left.php on line 140
+[26-Feb-2012 09:08:06] PHP Parse error:  syntax error, unexpected '}' in /home/sqjeans/public_html/left info.php on line 8
+[26-Feb-2012 09:09:01] PHP Parse error:  syntax error, unexpected '}' in /home/sqjeans/public_html/left info.php on line 8
+[26-Feb-2012 09:10:29] PHP Parse error:  syntax error, unexpected '}' in /home/sqjeans/public_html/left info.php on line 8
+[27-Feb-2012 04:48:13] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/payment.php on line 25
+[29-Feb-2012 00:04:18] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/customjeans.php on line 1591
+[08-Mar-2012 07:37:03] PHP Parse error:  syntax error, unexpected '}' in /home/sqjeans/public_html/left info.php on line 8
+[08-Mar-2012 07:37:36] PHP Parse error:  syntax error, unexpected '}' in /home/sqjeans/public_html/left info.php on line 8
+[01-Apr-2012 00:32:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[01-Apr-2012 00:32:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[01-Apr-2012 00:32:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[01-Apr-2012 00:32:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[01-Apr-2012 00:32:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[01-Apr-2012 00:32:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[01-Apr-2012 00:32:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[01-Apr-2012 00:32:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 220
+[03-Apr-2012 09:53:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[03-Apr-2012 09:53:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[03-Apr-2012 09:53:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[03-Apr-2012 09:53:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[03-Apr-2012 09:53:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[03-Apr-2012 09:53:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[03-Apr-2012 09:53:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[03-Apr-2012 09:53:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[03-Apr-2012 09:53:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 220
+[29-Apr-2012 11:28:23] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/payment.php on line 25
+[29-Apr-2012 11:29:03] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/payment.php on line 25
+[29-Apr-2012 11:29:08] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/payment.php on line 25
+[29-Apr-2012 11:29:41] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/payment.php on line 25
+[01-May-2012 22:03:45] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/orderprocess.php on line 393
+[01-May-2012 22:03:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sqjeans/public_html/orderprocess.php:393) in /home/sqjeans/public_html/orderprocess.php on line 651
+[01-May-2012 22:04:01] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/orderprocess.php on line 393
+[01-May-2012 22:04:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sqjeans/public_html/orderprocess.php:393) in /home/sqjeans/public_html/orderprocess.php on line 651
+[15-May-2012 03:22:29] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'sqjeans'@'localhost' (using password: NO) in /home/sqjeans/public_html/customjeans.php on line 124
+[15-May-2012 03:22:29] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/sqjeans/public_html/customjeans.php on line 124
+[15-May-2012 03:22:29] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 125
+[15-May-2012 03:22:29] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'sqjeans'@'localhost' (using password: NO) in /home/sqjeans/public_html/customjeans.php on line 223
+[15-May-2012 03:22:29] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/sqjeans/public_html/customjeans.php on line 223
+[15-May-2012 03:22:29] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 224
+[17-May-2012 09:02:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[17-May-2012 09:02:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[17-May-2012 09:02:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[17-May-2012 09:02:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[17-May-2012 09:02:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[17-May-2012 09:02:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[17-May-2012 09:02:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[17-May-2012 09:02:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[17-May-2012 09:02:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[17-May-2012 09:02:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 220
+[18-May-2012 22:12:11] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/payment.php on line 25
+[18-May-2012 22:38:44] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/payment.php on line 25
+[20-May-2012 09:05:27] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 404 bytes) in /home/sqjeans/public_html/howtoorder.php on line 210
+[20-May-2012 09:06:09] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 378 bytes) in /home/sqjeans/public_html/howtoorder.php on line 177
+[23-May-2012 09:01:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[23-May-2012 09:01:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[23-May-2012 09:01:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[23-May-2012 09:01:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[23-May-2012 09:01:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[23-May-2012 09:01:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[23-May-2012 09:01:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[23-May-2012 09:01:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[23-May-2012 09:01:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[23-May-2012 09:01:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 220
+[29-May-2012 08:33:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[29-May-2012 08:33:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[29-May-2012 08:33:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[29-May-2012 08:33:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[29-May-2012 08:33:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[29-May-2012 08:33:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[29-May-2012 08:33:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[29-May-2012 08:33:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 220
+[29-May-2012 08:35:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[29-May-2012 08:35:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[29-May-2012 08:35:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[29-May-2012 08:35:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[29-May-2012 08:35:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[29-May-2012 08:35:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[29-May-2012 08:35:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[29-May-2012 08:35:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[29-May-2012 08:35:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 147
+[29-May-2012 08:35:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 220
+[16-Jun-2012 14:03:48] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[16-Jun-2012 14:04:15] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[16-Jun-2012 14:11:27] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[16-Jun-2012 14:11:27] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[16-Jun-2012 14:41:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[16-Jun-2012 14:41:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[16-Jun-2012 14:41:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[16-Jun-2012 14:41:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[16-Jun-2012 14:41:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[16-Jun-2012 14:41:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[20-Jun-2012 05:34:08] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[20-Jun-2012 05:34:23] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[20-Jun-2012 05:35:10] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[20-Jun-2012 05:35:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/left_custom.php on line 312
+[20-Jun-2012 05:35:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/sqjeans/public_html/left_custom.php on line 312
+[20-Jun-2012 05:35:13] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/left_custom.php on line 313
+[20-Jun-2012 05:35:13] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/left_custom.php on line 330
+[20-Jun-2012 05:35:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/left_custom.php on line 359
+[20-Jun-2012 05:35:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/sqjeans/public_html/left_custom.php on line 359
+[20-Jun-2012 05:35:13] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/left_custom.php on line 360
+[20-Jun-2012 05:35:13] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/left_custom.php on line 376
+[20-Jun-2012 05:35:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/left_custom.php on line 409
+[20-Jun-2012 05:35:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/sqjeans/public_html/left_custom.php on line 409
+[20-Jun-2012 05:35:13] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/left_custom.php on line 410
+[20-Jun-2012 05:35:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/left_custom.php on line 428
+[20-Jun-2012 05:35:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/sqjeans/public_html/left_custom.php on line 428
+[20-Jun-2012 05:35:13] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/left_custom.php on line 429
+[20-Jun-2012 05:35:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/left_custom.php on line 450
+[20-Jun-2012 05:35:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/sqjeans/public_html/left_custom.php on line 450
+[20-Jun-2012 05:35:13] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/left_custom.php on line 451
+[20-Jun-2012 05:35:13] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/left_custom.php on line 467
+[20-Jun-2012 05:35:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/left_custom.php on line 490
+[20-Jun-2012 05:35:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/sqjeans/public_html/left_custom.php on line 490
+[20-Jun-2012 05:35:13] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/left_custom.php on line 491
+[20-Jun-2012 05:35:13] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/left_custom.php on line 507
+[20-Jun-2012 05:35:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/left_custom.php on line 535
+[20-Jun-2012 05:35:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/sqjeans/public_html/left_custom.php on line 535
+[20-Jun-2012 05:35:13] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/left_custom.php on line 536
+[20-Jun-2012 05:35:13] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/left_custom.php on line 551
+[20-Jun-2012 05:35:15] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/customjeans.php on line 121
+[20-Jun-2012 05:35:15] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/sqjeans/public_html/customjeans.php on line 121
+[20-Jun-2012 05:35:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 122
+[20-Jun-2012 05:35:15] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/customjeans.php on line 220
+[20-Jun-2012 05:35:15] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/sqjeans/public_html/customjeans.php on line 220
+[20-Jun-2012 05:35:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sqjeans/public_html/customjeans.php on line 221
+[20-Jun-2012 05:35:16] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[20-Jun-2012 05:35:26] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[20-Jun-2012 13:08:43] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[20-Jun-2012 13:11:44] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[20-Jun-2012 18:14:10] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[20-Jun-2012 18:23:59] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[20-Jun-2012 21:43:29] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[20-Jun-2012 21:44:47] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[20-Jun-2012 22:17:25] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[21-Jun-2012 12:47:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[21-Jun-2012 12:47:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[21-Jun-2012 12:47:46] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[21-Jun-2012 12:47:57] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[21-Jun-2012 12:48:13] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[21-Jun-2012 12:48:30] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[21-Jun-2012 13:24:54] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[21-Jun-2012 21:19:21] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/payment.php on line 25
+[21-Jun-2012 21:19:25] PHP Warning:  Variable passed to each() is not an array or object in /home/sqjeans/public_html/customjeans.php on line 1661
+[22-Jun-2012 00:46:10] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[22-Jun-2012 00:47:21] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6
+[22-Jun-2012 00:47:43] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sqjeans/public_html/include/function.php on line 6

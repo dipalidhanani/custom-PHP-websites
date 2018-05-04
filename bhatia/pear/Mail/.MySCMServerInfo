@@ -1,0 +1,10 @@
+SCMBranch=ats
+SCMRepository=ats/Code/anywheretogether/applications/filestogether/snipear/code/pear/Mail
+null.php;3652191279;1;1201758581;
+smtp.php;4172060159;2;1213267988;
+sendmail.php;2058694874;2;1213267989;
+RFC822.php;680517167;2;1213267989;
+mimePart.php;1877162481;2;1213267990;
+mimeDecode.php;4273230641;2;1213267990;
+mime.php;2999345090;2;1213267992;
+mail.php;1149836244;2;1213267992;

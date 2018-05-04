@@ -1,0 +1,14 @@
+.module-new .featuredIndent {
+/* Firefox */
+	-moz-transition:all 1s ease;
+	/* WebKit */
+	-webkit-transition:  all 1s ease;
+	/* Opera */
+	-o-transition: all 1s ease;
+	/* Standard */
+	transition:  all 1s ease;
+}
+
+.module-new .featuredIndent:hover {
+	background-color: #ffdfdf;
+}

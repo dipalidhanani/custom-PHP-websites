@@ -1,0 +1,14 @@
+[14-Jun-2011 23:14:43] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/indous/public_html/cprojects/taskmanagement/admin/cnn.php on line 2
+[14-Jun-2011 23:18:29] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/indous/public_html/cprojects/taskmanagement/admin/cnn.php on line 2
+[15-Jun-2011 00:03:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/indous/public_html/cprojects/taskmanagement/admin/newsletterClient.php on line 38
+[15-Jun-2011 00:03:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/indous/public_html/cprojects/taskmanagement/admin/newsletterClient.php on line 82
+[15-Jun-2011 00:07:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/indous/public_html/cprojects/taskmanagement/admin/newsletterClient.php on line 38
+[15-Jun-2011 00:07:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/indous/public_html/cprojects/taskmanagement/admin/newsletterClient.php on line 82
+[15-Jun-2011 00:07:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/indous/public_html/cprojects/taskmanagement/admin/newsletterClient.php on line 38
+[15-Jun-2011 00:07:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/indous/public_html/cprojects/taskmanagement/admin/newsletterClient.php on line 82
+[15-Jun-2011 00:08:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/indous/public_html/cprojects/taskmanagement/admin/newsletterClient.php on line 38
+[15-Jun-2011 00:08:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/indous/public_html/cprojects/taskmanagement/admin/newsletterClient.php on line 82
+[15-Jun-2011 00:08:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/indous/public_html/cprojects/taskmanagement/admin/newsletterClient.php on line 38
+[15-Jun-2011 00:08:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/indous/public_html/cprojects/taskmanagement/admin/newsletterClient.php on line 82
+[08-Jul-2011 06:02:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/indous/public_html/cprojects/taskmanagement/admin/newsletterDes.php on line 38
+[08-Jul-2011 06:02:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/indous/public_html/cprojects/taskmanagement/admin/newsletterDes.php on line 82

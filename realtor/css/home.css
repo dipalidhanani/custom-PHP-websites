@@ -1,0 +1,86 @@
+body {
+background: #cecece;
+}
+
+.white8 			{font-family: Arial;font-size:8pt;color:#fff;text-decoration: none;}
+.white8 a:link 		{font-family: Arial;font-size:8pt;color:#fff;text-decoration: none;}
+.white8 a:visited 	{font-family: Arial;font-size:8pt;color:#fff;text-decoration: none;}
+.white8 a:hover 	{font-family: Arial;font-size:8pt;color:#FFF;text-decoration: none;}
+.white8 a:active 	{font-family: Arial;font-size:8pt;color:#fff;text-decoration: none;}
+
+.white9 			{font-family: Arial;font-size:9pt;color:#fff;text-decoration: none;}
+.white9 a:link 		{font-family: Arial;font-size:9pt;color:#fff;text-decoration: none;}
+.white9 a:visited 	{font-family: Arial;font-size:9pt;color:#fff;text-decoration: none;}
+.white9 a:hover 	{font-family: Arial;font-size:9pt;color:#FFF;text-decoration: none;}
+.white9 a:active 	{font-family: Arial;font-size:9pt;color:#fff;text-decoration: none;}
+
+.white10 			{font-family: Arial;font-size:10pt;color:#fff;text-decoration: none;}
+.white10 a:link 	{font-family: Arial;font-size:10pt;color:#fff;text-decoration: none;}
+.white10 a:visited 	{font-family: Arial;font-size:10pt;color:#fff;text-decoration: none;}
+.white10 a:hover 	{font-family: Arial;font-size:10pt;color:#FFF;text-decoration: none;}
+.white10 a:active 	{font-family: Arial;font-size:10pt;color:#fff;text-decoration: none;}
+
+.white11 			{font-family: Arial;font-size:11pt;color:#fff;text-decoration: none;}
+.white11 a:link 	{font-family: Arial;font-size:11pt;color:#fff;text-decoration: none;}
+.white11 a:visited 	{font-family: Arial;font-size:11pt;color:#fff;text-decoration: none;}
+.white11 a:hover 	{font-family: Arial;font-size:11pt;color:#FFF;text-decoration: none;}
+.white11 a:active 	{font-family: Arial;font-size:11pt;color:#fff;text-decoration: none;}
+
+
+
+.black8 			{font-family: Arial;font-size:8pt;color:#333;text-decoration: none;}
+.black8 a:link 		{font-family: Arial;font-size:8pt;color:#333;text-decoration: none;}
+.black8 a:visited 	{font-family: Arial;font-size:8pt;color:#333;text-decoration: none;}
+.black8 a:hover 	{font-family: Arial;font-size:8pt;color:#000;text-decoration: none;}
+.black8 a:active 	{font-family: Arial;font-size:8pt;color:#333;text-decoration: none;}
+
+.black9 			{font-family: Arial;font-size:9pt;color:#333;text-decoration: none;}
+.black9 a:link 		{font-family: Arial;font-size:9pt;color:#333;text-decoration: none;}
+.black9 a:visited 	{font-family: Arial;font-size:9pt;color:#333;text-decoration: none;}
+.black9 a:hover 	{font-family: Arial;font-size:9pt;color:#000;text-decoration: none;}
+.black9 a:active 	{font-family: Arial;font-size:9pt;color:#333;text-decoration: none;}
+
+.black10 			{font-family: Arial;font-size:10pt;color:#333;text-decoration: none;}
+.black10 a:link 	{font-family: Arial;font-size:10pt;color:#333;text-decoration: none;}
+.black10 a:visited 	{font-family: Arial;font-size:10pt;color:#333;text-decoration: none;}
+.black10 a:hover 	{font-family: Arial;font-size:10pt;color:#000;text-decoration: none;}
+.black10 a:active 	{font-family: Arial;font-size:10pt;color:#333;text-decoration: none;}
+
+.black11 			{font-family: Arial;font-size:12pt;color:#333;text-decoration: none;}
+.black11 a:link 	{font-family: Arial;font-size:12pt;color:#333;text-decoration: none;}
+.black11 a:visited 	{font-family: Arial;font-size:12pt;color:#333;text-decoration: none;}
+.black11 a:hover 	{font-family: Arial;font-size:12pt;color:#000;text-decoration: none;}
+.black11 a:active 	{font-family: Arial;font-size:12pt;color:#333;text-decoration: none;}
+
+.red 			{font-family: Arial;font-size:9pt;color:#ab2400;text-decoration: none; margin:0px; padding:0px;}
+.red a:link 	{font-family: Arial;font-size:9pt;color:#ab2400;text-decoration: none; margin:0px; padding:0px;}
+.red a:visited 	{font-family: Arial;font-size:9pt;color:#ab2400;text-decoration: none; margin:0px; padding:0px;}
+.red a:hover 	{font-family: Arial;font-size:9pt;color:#333333;text-decoration: none; margin:0px; padding:0px;}
+.red a:active 	{font-family: Arial;font-size:9pt;color:#ab2400;text-decoration: none; margin:0px; padding:0px;}
+
+.title_red				{font-family:'Open Sans Condensed', sans-serif;font-size:22pt;color:#ab2400;text-decoration: none;}
+.title_red a:link 		{font-family:'Open Sans Condensed', sans-serif;font-size:22pt;color:#ab2400;text-decoration: none;}
+.title_red a:visited	{font-family:'Open Sans Condensed', sans-serif;font-size:22pt;color:#ab2400;text-decoration: none;}
+.title_red a:hove		{font-family:'Open Sans Condensed', sans-serif;font-size:22pt;color:#000000;text-decoration: none;}
+.title_red a:active 	{font-family:'Open Sans Condensed', sans-serif;font-size:22pt;color:#ab2400;text-decoration: none;}
+
+.title_red1				{font-family:'Open Sans Condensed', sans-serif;font-size:18pt;color:#ab2400;text-decoration: none;}
+.title_red1 a:link 		{font-family:'Open Sans Condensed', sans-serif;font-size:18pt;color:#ab2400;text-decoration: none;}
+.title_red1 a:visited	{font-family:'Open Sans Condensed', sans-serif;font-size:18pt;color:#ab2400;text-decoration: none;}
+.title_red1 a:hove		{font-family:'Open Sans Condensed', sans-serif;font-size:18pt;color:#000000;text-decoration: none;}
+.title_red1 a:active 	{font-family:'Open Sans Condensed', sans-serif;font-size:18pt;color:#ab2400;text-decoration: none;}
+
+.title_white			{font-family:'Open Sans Condensed', sans-serif;font-size:22pt;color:#ffffff;text-decoration: none;}
+.title_white a:link 	{font-family:'Open Sans Condensed', sans-serif;font-size:22pt;color:#ffffff;text-decoration: none;}
+.title_white a:visited	{font-family:'Open Sans Condensed', sans-serif;font-size:22pt;color:#ffffff;text-decoration: none;}
+.title_white a:hove		{font-family:'Open Sans Condensed', sans-serif;font-size:22pt;color:#000000;text-decoration: none;}
+.title_white a:active 	{font-family:'Open Sans Condensed', sans-serif;font-size:22pt;color:#ffffff;text-decoration: none;}
+
+.validationmsg
+{
+	font:cambria;
+	font-size:14px;
+	color:#F00;
+	text-decoration:none;
+	font-weight:lighter;
+}

@@ -1,0 +1,86 @@
+.border-bottom	{border-bottom:1px dashed #006f0a;}
+.bottom_border	{border-bottom:1px dashed #999;}
+
+
+.white8 			{font-family: Arial;font-size:8pt;color:#fff;text-decoration: none;}
+.white8 a:link 		{font-family: Arial;font-size:8pt;color:#fff;text-decoration: none;}
+.white8 a:visited 	{font-family: Arial;font-size:8pt;color:#fff;text-decoration: none;}
+.white8 a:hover 	{font-family: Arial;font-size:8pt;color:#FFF;text-decoration: none;}
+.white8 a:active 	{font-family: Arial;font-size:8pt;color:#fff;text-decoration: none;}
+
+.white9 			{font-family: Arial;font-size:9pt;color:#fff;text-decoration: none;}
+.white9 a:link 		{font-family: Arial;font-size:9pt;color:#fff;text-decoration: none;}
+.white9 a:visited 	{font-family: Arial;font-size:9pt;color:#fff;text-decoration: none;}
+.white9 a:hover 	{font-family: Arial;font-size:9pt;color:#FFF;text-decoration: none;}
+.white9 a:active 	{font-family: Arial;font-size:9pt;color:#fff;text-decoration: none;}
+
+.white10 			{font-family: Arial;font-size:10pt;color:#fff;text-decoration: none;}
+.white10 a:link 	{font-family: Arial;font-size:10pt;color:#fff;text-decoration: none;}
+.white10 a:visited 	{font-family: Arial;font-size:10pt;color:#fff;text-decoration: none;}
+.white10 a:hover 	{font-family: Arial;font-size:10pt;color:#FFF;text-decoration: none;}
+.white10 a:active 	{font-family: Arial;font-size:10pt;color:#fff;text-decoration: none;}
+
+.white11 			{font-family: Arial;font-size:11pt;color:#fff;text-decoration: none;}
+.white11 a:link 	{font-family: Arial;font-size:11pt;color:#fff;text-decoration: none;}
+.white11 a:visited 	{font-family: Arial;font-size:11pt;color:#fff;text-decoration: none;}
+.white11 a:hover 	{font-family: Arial;font-size:11pt;color:#FFF;text-decoration: none;}
+.white11 a:active 	{font-family: Arial;font-size:11pt;color:#fff;text-decoration: none;}
+
+.black8 			{font-family: Arial;font-size:8pt;color:#333;text-decoration: none;}
+.black8 a:link 		{font-family: Arial;font-size:8pt;color:#333;text-decoration: none;}
+.black8 a:visited 	{font-family: Arial;font-size:8pt;color:#333;text-decoration: none;}
+.black8 a:hover 	{font-family: Arial;font-size:8pt;color:#000;text-decoration: none;}
+.black8 a:active 	{font-family: Arial;font-size:8pt;color:#333;text-decoration: none;}
+
+.black9 			{font-family: Arial;font-size:9pt;color:#333;text-decoration: none;}
+.black9 a:link 		{font-family: Arial;font-size:9pt;color:#333;text-decoration: none;}
+.black9 a:visited 	{font-family: Arial;font-size:9pt;color:#333;text-decoration: none;}
+.black9 a:hover 	{font-family: Arial;font-size:9pt;color:#000;text-decoration: none;}
+.black9 a:active 	{font-family: Arial;font-size:9pt;color:#333;text-decoration: none;}
+
+.black10 			{font-family: Arial;font-size:10pt;color:#333;text-decoration: none;}
+.black10 a:link 	{font-family: Arial;font-size:10pt;color:#333;text-decoration: none;}
+.black10 a:visited 	{font-family: Arial;font-size:10pt;color:#333;text-decoration: none;}
+.black10 a:hover 	{font-family: Arial;font-size:10pt;color:#000;text-decoration: none;}
+.black10 a:active 	{font-family: Arial;font-size:10pt;color:#333;text-decoration: none;}
+
+.red9 				{font-family: Arial;font-size:9pt;color:#930;text-decoration: none;}
+.red9 a:link 		{font-family: Arial;font-size:9pt;color:#930;text-decoration: none;}
+.red9 a:visited 	{font-family: Arial;font-size:9pt;color:#930;text-decoration: none;}
+.red9 a:hover 		{font-family: Arial;font-size:9pt;color:#930;text-decoration: none;}
+.red9 a:active 		{font-family: Arial;font-size:9pt;color:#930;text-decoration: none;}
+
+.title 			{font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;color:#44311c;text-decoration:none; padding:0px;; margin:0px;}
+.title a:link 	{font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;color:#44311c;text-decoration:none; padding:0px;; margin:0px;}
+.title a:visited {font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;color:#44311cc;text-decoration:none; padding:0px;; margin:0px;}
+.title a:hover 	{font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;color:#44311c;text-decoration:none; padding:0px;; margin:0px;}
+.title a:active {font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;color:#44311c;text-decoration:none; padding:0px;; margin:0px;}
+.err_validate {
+	font-family: Tahoma;
+	font-size: 9pt;
+	color:  #FF0000;
+	text-decoration: none;
+	border: none;
+   
+}
+.textcss{border: 1px solid #B7A286; padding: 3px 2px;}
+.V4HeaderTbl{border-collapse: collapse;}
+.V4HeaderTbl td{ border: 1px solid #DCDCDC;
+    border-collapse: collapse;
+	}
+.menu_sep{background-position:right;  padding-right: 6px;}
+
+
+
+.table_corner  {
+	    -moz-border-radius: 10px;
+	    -webkit-border-radius: 10px;
+	    border-radius: 10px;
+		border: 1px solid #DCDCDC;
+		
+		padding-top:0px;
+		padding-bottom:0px;
+		
+}
+p{margin:0;}
+.pagecolor{color:#FFD098;font-family: Arial;font-size:13px; font-weight:bold;}

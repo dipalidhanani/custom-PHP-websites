@@ -1,0 +1,339 @@
+.dx {
+	border: 2px solid #4F7834;
+}
+.dx1 {
+	border: 3px solid #333333;
+}
+.text{
+	border: 1px solid #4F7834;
+	background:none;
+}
+
+.text_tag11 {
+	font-family: Arial;
+	font-size: 11pt;
+	color: #FFFFFF;
+	font-weight: normal;
+	text-decoration: none;
+	}
+.text_tag11 a:link {
+	font-family: Arial;
+	font-size: 11pt;
+	color: #FFFFFF;
+	font-weight: normal;
+	text-decoration: none;
+	}
+
+.text_tag11 a:visited {
+	font-family:Arial;
+	font-size: 11pt;
+	color: #FFFFFF;
+	font-weight: normal;
+	text-decoration: none;
+	}
+.text_tag11 a:hover {
+	font-family: Arial;
+	font-size: 11pt;
+	color: #FFFFFF;
+	font-weight: normal;
+	text-decoration: none;
+	}
+.text_tag11 a:active {
+	font-family: Arial;
+	font-size: 11pt;
+	color: #FFFFFF;
+	font-weight: normal;
+	text-decoration: none;
+	}
+.border {
+	border: 1px solid #CCCCCC;
+}
+.border_1 {
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #333333;
+}
+.normal_fonts8 {
+	font-family: Tahoma;
+	font-size: 8pt;
+	color: #333333;
+	text-decoration: none;
+}
+.normal_fonts8 a:link {
+	font-family: Tahoma;
+	font-size: 8pt;
+	color: #333333;
+	text-decoration: none;
+}
+.normal_fonts8 a:visited {
+	font-family: Tahoma;
+	font-size: 8pt;
+	color: #333333;
+	text-decoration: none;
+}
+.normal_fonts8 a:hover {
+	font-family: Tahoma;
+	font-size: 8pt;
+	color:  #000000;
+	text-decoration: none;
+}
+
+.normal_fonts8 a:active {
+	font-family: Tahoma;
+	font-size: 8pt;
+	color: #000000;
+	text-decoration: none;
+}
+.normal_fonts9 {
+	font-family: Tahoma;
+	font-size: 9pt;
+	color: #333333;
+	text-decoration: none;
+}
+.normal_fonts9 a:link {
+	font-family: Tahoma;
+	font-size: 9pt;
+	color: #333333;
+	text-decoration: none;
+}
+.normal_fonts9 a:visited {
+	font-family: Tahoma;
+	font-size: 9pt;
+	color: #333333;
+	text-decoration: none;
+}
+.normal_fonts9 a:hover {
+	font-family: Tahoma;
+	font-size: 9pt;
+	color:  #000000;
+	text-decoration: none;
+}
+
+.normal_fonts9 a:active {
+	font-family: Tahoma;
+	font-size: 9pt;
+	color: #000000;
+	text-decoration: none;
+}
+.normal_fonts10 {
+	font-family: Tahoma;
+	font-size: 10pt;
+	color: #333333;
+	text-decoration: none;
+}
+.normal_fonts10 a:link {
+	font-family: Tahoma;
+	font-size: 10pt;
+	color: #333333;
+	text-decoration: none;
+}
+.normal_fonts10 a:visited {
+	font-family: Tahoma;
+	font-size: 10pt;
+	color: #333333;
+	text-decoration: none;
+}
+.normal_fonts10 a:hover {
+	font-family: Tahoma;
+	font-size: 10pt;
+	color:  #000000;
+	text-decoration: none;
+}
+
+.normal_fonts10 a:active {
+	font-family: Tahoma;
+	font-size: 10pt;
+	color: #000000;
+	text-decoration: none;
+}
+
+.normal_fonts14 {
+	font-family: Cambria;
+	font-size: 14pt;
+	color: #e98630;
+	text-decoration: none;
+	font-weight: normal;
+}
+.normal_fonts14 a:link {
+	font-family: Cambria;
+	font-size: 14pt;
+	color: #199505;
+	text-decoration: none;
+}
+.normal_fonts14 a:visited {
+	font-family: Cambria;
+	font-size: 14pt;
+	color: #199505;
+	text-decoration: none;
+}
+.normal_fonts14 a:hover {
+	font-family: Cambria;
+	font-size: 14pt;
+	color:  #000;
+	text-decoration: none;
+}
+
+.normal_fonts14 a:active {
+	font-family: Cambria;
+	font-size: 14pt;
+	color: #199505;
+	text-decoration: none;
+}
+.normal_fonts14_black {
+	font-family: Cambria;
+	font-size: 14pt;
+	color: #333333;
+	text-decoration: none;
+	font-weight: normal;
+}
+.normal_fonts14_black a:link {
+	font-family: Cambria;
+	font-size: 14pt;
+	color: #333333;
+	text-decoration: none;
+}
+.normal_fonts14_black a:visited {
+	font-family: Cambria;
+	font-size: 14pt;
+	color: #333333;
+	text-decoration: none;
+}
+.normal_fonts14_black a:hover {
+	font-family: Cambria;
+	font-size: 14pt;
+	color:  #333333;
+	text-decoration: none;
+}
+
+.normal_fonts14_black a:active {
+	font-family: Cambria;
+	font-size: 14pt;
+	color: #333333;
+	text-decoration: none;
+}
+.table_border {
+	border: 1px solid #CCCCCC;
+}
+.normal_fonts12_black {
+	font-family: Cambria;
+	font-size: 12pt;
+	color: #333333;
+	text-decoration: none;
+	font-weight: normal;
+}
+.normal_fonts12_black a:link {
+	font-family: Cambria;
+	font-size: 12pt;
+	color: #333333;
+	text-decoration: none;
+}
+.normal_fonts12_black a:visited {
+	font-family: Cambria;
+	font-size: 12pt;
+	color: #333333;
+	text-decoration: none;
+}
+.normal_fonts12_black a:hover {
+	font-family: Cambria;
+	font-size: 12pt;
+	color:  #6FA420;
+	text-decoration: none;
+}
+
+.normal_fonts12_black a:active {
+	font-family: Cambria;
+	font-size: 12pt;
+	color: #333333;
+	text-decoration: none;
+}
+.normal_fonts14_white {
+	font-family: Cambria;
+	font-size: 14pt;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: normal;
+}
+.normal_fonts14_white a:link {
+	font-family: Cambria;
+	font-size: 14pt;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.normal_fonts14_white a:visited {
+	font-family: Cambria;
+	font-size: 14pt;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.normal_fonts14_white a:hover {
+	font-family: Cambria;
+	font-size: 14pt;
+	color:  #FFFFFF;
+	text-decoration: none;
+}
+.normal_fonts12_white {
+	font-family: Cambria;
+	font-size: 12pt;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: normal;
+}
+.normal_fonts12_white a:link {
+	font-family: Cambria;
+	font-size: 12pt;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.normal_fonts12_white a:visited {
+	font-family: Cambria;
+	font-size: 12pt;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.normal_fonts12_white a:hover {
+	font-family: Cambria;
+	font-size: 12pt;
+	color:  #FFFFFF;
+	text-decoration: none;
+}
+.abcd_whitefonts_12 {
+	font-family: Cambria;
+	font-size: 12pt;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: normal;
+}
+.abcd_whitefonts_12 a:link {
+	font-family: Cambria;
+	font-size: 14pt;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.abcd_whitefonts_12 a:visited {
+	font-family: Cambria;
+	font-size: 14pt;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.abcd_whitefonts_12 a:hover {
+	font-family: Cambria;
+	font-size: 12pt;
+	color:  #FFFFFF;
+	text-decoration: none;
+}
+
+
+.bottom_border {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCCCCC;
+}
+
+.err_validate {
+	font-family: Tahoma;
+	font-size: 9pt;
+	color:  #FF0000;
+	text-decoration: none;
+	border: none;
+   
+}

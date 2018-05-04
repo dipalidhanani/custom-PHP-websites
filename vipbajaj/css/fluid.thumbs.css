@@ -1,0 +1,10 @@
+#thumb-tray{width:960px;height:80px;position:absolute;z-index:0;overflow:hidden;text-align:center;background:#F0F0F0;}
+ul#thumb-list{ display:inline-block; position:relative; left:0; bottom:5px; padding:0; list-style:none; }
+ul#thumb-list li{display:inline;width:138px;height:108px;float:left;overflow:hidden;margin:0;list-style:none;background:#F0F0F0;}
+ul#thumb-list li:hover{ cursor:pointer;}
+#thumb-prev, #thumb-next{width:15px;height:80px;position:inherit;z-index:5;bottom:0;}
+#thumb-prev{ left:0;  }
+#thumb-next{ right:0; }
+		
+		
+				

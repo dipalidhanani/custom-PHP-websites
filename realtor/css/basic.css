@@ -1,0 +1,28 @@
+/*
+ * SimpleModal Basic Modal Dialog
+ * http://www.ericmmartin.com/projects/simplemodal/
+ * http://code.google.com/p/simplemodal/
+ *
+ * Copyright (c) 2010 Eric Martin - http://ericmmartin.com
+ *
+ * Licensed under the MIT license:
+ *   http://www.opensource.org/licenses/mit-license.php
+ *
+ * Revision: $Id: basic.css 257 2010-07-27 23:06:56Z emartin24 $
+ */
+
+#basic-modal-content1,#basic-modal-content2,#basic-modal-content3,#basic-modal-content4,#basic-modal-content5 ,#basic-modal-content6 ,#basic-modal-content7 ,#basic-modal-content8 ,#basic-modal-content9 ,#basic-modal-content10 ,#basic-modal-content11 ,#basic-modal-content12 ,#basic-modal-content13 ,#basic-modal-content14 ,#basic-modal-content15 ,#basic-modal-content16 ,#basic-modal-content17 ,#basic-modal-content18 ,#basic-modal-content19 ,#basic-modal-content20 ,#basic-modal-content21 ,#basic-modal-content22 ,#basic-modal-content23 ,#basic-modal-content24 ,#basic-modal-content25 
+{display:none;}
+#basic-modal-contentx1,#basic-modal-contentx2,#basic-modal-contentx3,#basic-modal-contentx4,#basic-modal-contentx5,#basic-modal-contentx6 ,#basic-modal-contentx7 ,#basic-modal-contentx8 ,#basic-modal-contentx9 ,#basic-modal-contentx10 ,#basic-modal-contentx11 ,#basic-modal-contentx12 ,#basic-modal-contentx13 ,#basic-modal-contentx14 ,#basic-modal-contentx15 ,#basic-modal-contentx16 ,#basic-modal-contentx17 ,#basic-modal-contentx18 ,#basic-modal-contentx19 ,#basic-modal-contentx20 ,#basic-modal-contentx21 ,#basic-modal-contentx22 ,#basic-modal-contentx23 ,#basic-modal-contentx24 ,#basic-modal-contentx25  
+{display:none;}
+
+/* Overlay */
+#simplemodal-overlay {background-color:#444; cursor:wait;}
+
+/* Container */
+#simplemodal-container {height:307px; width:600px; color:#bbb; background-color:#555; border:4px solid #666; padding:0px;}
+#simplemodal-container .simplemodal-data {padding:8px;}
+#simplemodal-container code {background:#141414; border-left:3px solid #65B43D; color:#bbb; display:block; font-size:12px; margin-bottom:12px; padding:4px 6px 6px;}
+#simplemodal-container a {color:#ddd;}
+#simplemodal-container a.modalCloseImg {background:url(../images/x.png) no-repeat; width:25px; height:29px; display:inline; z-index:3200; position:absolute; top:-15px; right:-16px; cursor:pointer;}
+#simplemodal-container h3 {color:#84b8d9;}

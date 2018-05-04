@@ -1,0 +1,27 @@
+<!DOCTYPE html PUBLIC
+          "-//W3C//DTD XHTML 1.0 Transitional//EN"
+          "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+    <title></title>
+    <script src="js/format1.js"></script>
+    <script src="js/format.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/format.css" />
+    <link rel="stylesheet" type="text/css" href="css/border-radius.css" />
+    <link rel="stylesheet" type="text/css" href="steel/steel.css" />
+  </head>
+  <body>
+    
+    <input size="30" id="f_date3" />
+   
+    <script type="text/javascript">
+
+      var cal = Calendar.setup({
+          onSelect: function(cal) { cal.hide() }
+      });
+     
+      cal.manageFields("f_date3", "f_date3", "%e/%B/%Y");
+     
+    </script>
+  </body>
+</html>

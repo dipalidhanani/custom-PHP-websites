@@ -1,0 +1,7 @@
+SCMBranch=ats
+SCMRepository=ats/Code/anywheretogether/applications/filestogether/snipear/code/pear/phpmailer
+ChangeLog.txt;1920780571;1;1201758584;
+class.phpmailer.php;1889521714;1;1201758585;
+class.smtp.php;565996895;1;1201758586;
+LICENSE;2624325953;1;1201758587;
+README;698374438;1;1201758587;

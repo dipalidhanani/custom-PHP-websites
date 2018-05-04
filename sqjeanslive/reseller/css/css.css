@@ -1,0 +1,470 @@
+.border {
+
+	border: 1px solid #CCCCCC;
+
+}
+
+.bottom_border {
+
+	border-bottom:: 1px solid #CCCCCC;
+
+}
+
+.normal_fonts8 {
+
+	font-family: Tahoma;
+
+	font-size: 8pt;
+
+	color: #333333;
+
+	text-decoration: none;
+
+}
+
+.normal_fonts8 a:link {
+
+	font-family: Tahoma;
+
+	font-size: 8pt;
+
+	color: #333333;
+
+	text-decoration: none;
+
+}
+
+.normal_fonts8 a:visited {
+
+	font-family: Tahoma;
+
+	font-size: 8pt;
+
+	color: #333333;
+
+	text-decoration: none;
+
+}
+
+.normal_fonts8 a:hover {
+
+	font-family: Tahoma;
+
+	font-size: 8pt;
+
+	color:  #000000;
+
+	text-decoration: none;
+
+}
+
+
+
+.normal_fonts8 a:active {
+
+	font-family: Tahoma;
+
+	font-size: 8pt;
+
+	color: #000000;
+
+	text-decoration: none;
+
+}
+
+.normal_fonts9 {
+
+	font-family: Tahoma;
+
+	font-size: 9pt;
+
+	color: #333333;
+
+	text-decoration: none;
+
+}
+
+.normal_fonts9 a:link {
+
+	font-family: Tahoma;
+
+	font-size: 9pt;
+
+	color: #333333;
+
+	text-decoration: none;
+
+}
+
+.normal_fonts9 a:visited {
+
+	font-family: Tahoma;
+
+	font-size: 9pt;
+
+	color: #333333;
+
+	text-decoration: none;
+
+}
+
+.normal_fonts9 a:hover {
+
+	font-family: Tahoma;
+
+	font-size: 9pt;
+
+	color:  #000000;
+
+	text-decoration: none;
+
+}
+
+
+
+.normal_fonts9 a:active {
+
+	font-family: Tahoma;
+
+	font-size: 9pt;
+
+	color: #000000;
+
+	text-decoration: none;
+
+}
+
+.normal_fonts10 {
+
+	font-family: Tahoma;
+
+	font-size: 10pt;
+
+	color: #333333;
+
+	text-decoration: none;
+
+}
+
+.normal_fonts10 a:link {
+
+	font-family: Tahoma;
+
+	font-size: 10pt;
+
+	color: #333333;
+
+	text-decoration: none;
+
+}
+
+.normal_fonts10 a:visited {
+
+	font-family: Tahoma;
+
+	font-size: 10pt;
+
+	color: #333333;
+
+	text-decoration: none;
+
+}
+
+.normal_fonts10 a:hover {
+
+	font-family: Tahoma;
+
+	font-size: 10pt;
+
+	color:  #000000;
+
+	text-decoration: none;
+
+}
+
+
+
+.normal_fonts10 a:active {
+
+	font-family: Tahoma;
+
+	font-size: 10pt;
+
+	color: #000000;
+
+	text-decoration: none;
+
+}
+
+.normal_fonts12 {
+
+	font-family: Tahoma;
+
+	font-size: 12pt;
+
+	color: #333333;
+
+	text-decoration: none;
+
+}
+
+.normal_fonts14 {
+
+	font-family: Cambria;
+
+	font-size: 14pt;
+
+	color: #e98630;
+
+	text-decoration: none;
+
+	font-weight: normal;
+
+}
+
+.normal_fonts14 a:link {
+
+	font-family: Cambria;
+
+	font-size: 14pt;
+
+	color: #199505;
+
+	text-decoration: none;
+
+}
+
+.normal_fonts14 a:visited {
+
+	font-family: Cambria;
+
+	font-size: 14pt;
+
+	color: #199505;
+
+	text-decoration: none;
+
+}
+
+.normal_fonts14 a:hover {
+
+	font-family: Cambria;
+
+	font-size: 14pt;
+
+	color:  #000;
+
+	text-decoration: none;
+
+}
+
+
+
+.normal_fonts14 a:active {
+
+	font-family: Cambria;
+
+	font-size: 14pt;
+
+	color: #199505;
+
+	text-decoration: none;
+
+}
+
+.normal_fonts14_black {
+
+	font-family: Cambria;
+
+	font-size: 14pt;
+
+	color: #333333;
+
+	text-decoration: none;
+
+	font-weight: normal;
+
+}
+
+.normal_fonts14_black a:link {
+
+	font-family: Cambria;
+
+	font-size: 14pt;
+
+	color: #333333;
+
+	text-decoration: none;
+
+}
+
+.normal_fonts14_black a:visited {
+
+	font-family: Cambria;
+
+	font-size: 14pt;
+
+	color: #333333;
+
+	text-decoration: none;
+
+}
+
+.normal_fonts14_black a:hover {
+
+	font-family: Cambria;
+
+	font-size: 14pt;
+
+	color:  #333333;
+
+	text-decoration: none;
+
+}
+
+
+
+.normal_fonts14_black a:active {
+
+	font-family: Cambria;
+
+	font-size: 14pt;
+
+	color: #333333;
+
+	text-decoration: none;
+
+}
+
+.table_border {
+
+	border: 1px solid #CCCCCC;
+
+}
+
+.normal_fonts12_black {
+
+	font-family: Cambria;
+
+	font-size: 12pt;
+
+	color: #333333;
+
+	text-decoration: none;
+
+	font-weight: normal;
+
+}
+
+.normal_fonts12_black a:link {
+
+	font-family: Cambria;
+
+	font-size: 12pt;
+
+	color: #333333;
+
+	text-decoration: none;
+
+}
+
+.normal_fonts12_black a:visited {
+
+	font-family: Cambria;
+
+	font-size: 12pt;
+
+	color: #333333;
+
+	text-decoration: none;
+
+}
+
+.normal_fonts12_black a:hover {
+
+	font-family: Cambria;
+
+	font-size: 12pt;
+
+	color:  #6FA420;
+
+	text-decoration: none;
+
+}
+
+
+
+.normal_fonts12_black a:active {
+
+	font-family: Cambria;
+
+	font-size: 12pt;
+
+	color: #333333;
+
+	text-decoration: none;
+
+}
+
+.warning_fonts9 {
+
+	font-family: Tahoma;
+
+	font-size: 9pt;
+
+	color: #F00;
+
+	text-decoration: none;
+
+}
+
+.warning_fonts9 a:link {
+
+	font-family: Tahoma;
+
+	font-size: 9pt;
+
+	color: #F00;
+
+	text-decoration: none;
+
+}
+
+.warning_fonts9 a:visited {
+
+	font-family: Tahoma;
+
+	font-size: 9pt;
+
+	color: #F00;
+
+	text-decoration: none;
+
+}
+
+.warning_fonts9 a:hover {
+
+	font-family: Tahoma;
+
+	font-size: 9pt;
+
+	color:  #F00;
+
+	text-decoration: none;
+
+}
+
+
+
+.warning_fonts9 a:active {
+
+	font-family: Tahoma;
+
+	font-size: 9pt;
+
+	color: #F00;
+
+	text-decoration: none;
+
+}
+.err_validate{color:#F00;}

@@ -1,0 +1,11 @@
+SCMBranch=ats
+SCMRepository=ats/Code/anywheretogether/applications/filestogether/snipear/code/pear/SOAP
+WSDL.php;4229402777;3;1213268049;
+Value.php;3581358609;2;1213268049;
+Transport.php;2985369457;3;1213268049;
+Server.php;764605936;2;1213268050;
+Parser.php;4148941620;2;1213268051;
+Fault.php;787798568;3;1213268051;
+Disco.php;1683201727;3;1213268051;
+Client.php;591495339;2;1213268052;
+Base.php;140115423;3;1213268053;
